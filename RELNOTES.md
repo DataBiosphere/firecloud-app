@@ -1,5 +1,9 @@
+# RC_Likewu
+## 2018-05-08
+* [#52](https://github.com/DataBiosphere/firecloud-app/issues/52): When viewing the details of a genomics operation from a workspace's Monitor tab -> view submission -> view workflow -> show call -> operation, the json for the operation was previously on a single line, making it difficult to read. This json is now pretty-printed for easier reading.
+
 # RC_Koean
-## 2018-05-21
+## 2018-05-01
 * [#8](https://github.com/DataBiosphere/firecloud-app/issues/8): Fixes a bug in the UI's New Relic integration that caused a JavaScript error in the browser and prevented metrics from being delivered to New Relic. This error was invisible to end users unless they had the JavaScript console open and did not impact any other functionality.
 
 # RC_J
