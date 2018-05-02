@@ -1,3 +1,7 @@
+# RC_Koean
+## 2018-05-21
+* [#8](https://github.com/DataBiosphere/firecloud-app/issues/8): Fixes a bug in the UI's New Relic integration that caused a JavaScript error in the browser and prevented metrics from being delivered to New Relic. This error was invisible to end users unless they had the JavaScript console open and did not impact any other functionality.
+
 # RC_J
 ## 2018-04-25
 * [#3](https://github.com/DataBiosphere/firecloud-app/issues/3): There is now a link to the FireCloud status/uptime dashboard in the footer.
