@@ -1,7 +1,9 @@
 # RC_Likewu
 ## 2018-05-08
-* [#52](https://github.com/DataBiosphere/firecloud-app/issues/52): When viewing the details of a genomics operation from a workspace's Monitor tab -> view submission -> view workflow -> show call -> operation, the json for the operation was previously on a single line, making it difficult to read. This json is now pretty-printed for easier reading.
+* [#37](https://github.com/DataBiosphere/firecloud-app/issues/37): When importing data entities from another workspace, the add icon is now always visible and usable. Previously, if you hid all columns, the add icon disappeared, even if you then un-hid individual columns.
+* [#52](https://github.com/DataBiosphere/firecloud-app/issues/52): When viewing the details of a genomics operation from a workspace's Monitor tab -> view submission -> view workflow -> show call -> operation, the json for the operation is now pretty-printed for easier reading. Previously it was on a single line, making it difficult to read.
 * [#53](https://github.com/DataBiosphere/firecloud-app/issues/53): Upgraded the `hoek` third-party transitive dependency in the UI to address a potential security vulnerability identified as [CVE-2018-3728](https://nvd.nist.gov/vuln/detail/CVE-2018-3728).
+* [#58](https://github.com/DataBiosphere/firecloud-app/issues/58): Resolved a JavaScript error that resulted in a blank page when viewing the details of an entity within the Data tab of your workspace, if that entity contained a numeric attribute created via the API. This did not occur for attributes created via TSV upload.
 
 # RC_Koean
 ## 2018-05-01
