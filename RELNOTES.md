@@ -1,5 +1,10 @@
+# RC_Nungan
+## 2018-05-22
+* [#11](https://github.com/DataBiosphere/firecloud-app/issues/11): When viewing a single workflow, FireCloud now allows you to drill down into the details of subworkflows.
+* [#16](https://github.com/DataBiosphere/firecloud-app/issues/16): When viewing a single submission, FireCloud now shows actual cloud costs for that submission and each workflow in the submission, when available. Cost information will be added to additional parts of the UI in upcoming releases.
+
 # RC_Mongolian
-## 2018-05-15
+## 2018-05-17
 * [#9](https://github.com/DataBiosphere/firecloud-app/issues/9): APIs now better support retrieval of subworkflow metadata and labels. Subworkflow metadata will be exposed in the FireCloud UI in a future release.
 * [#12](https://github.com/DataBiosphere/firecloud-app/issues/12): Actual workflow run cost is now returned in the submission status API, when available. This run cost will be exposed in the FireCloud UI in a future release.
 
