@@ -1,3 +1,6 @@
+# RC_Pilgrim
+## 2018-06-05
+
 # RC_Obroshino
 ## 2018-05-31
 * [#20](https://github.com/DataBiosphere/firecloud-app/issues/20): Actual cloud costs, when available, are now displayed in the details page for individual workflows.
