@@ -1,5 +1,7 @@
 # RC_Obroshino
-## 2018-05-29
+## 2018-05-31
+* [#20](https://github.com/DataBiosphere/firecloud-app/issues/20): Actual cloud costs, when available, are now displayed in the details page for individual workflows.
+* [#75](https://github.com/DataBiosphere/firecloud-app/issues/75): Fixed an issue where the links to open a GCS bucket were incorrect for certain subworkflows.
 
 # RC_Nungan
 ## 2018-05-22
