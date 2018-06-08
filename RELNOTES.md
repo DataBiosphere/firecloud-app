@@ -1,3 +1,6 @@
+# RC_Rung
+## 2018-06-12
+
 # RC_Q
 ## 2018-06-07
 * [#76](https://github.com/DataBiosphere/firecloud-app/issues/76): FireCloud has upgraded to Cromwell version 32. For more information on this upgrade, see the official FireCloud release notes for RC_Q at https://software.broadinstitute.org/firecloud/blog?id=12169, and the Cromwell release notes at https://github.com/broadinstitute/cromwell/releases.
