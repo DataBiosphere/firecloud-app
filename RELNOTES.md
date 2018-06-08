@@ -1,3 +1,7 @@
+# RC_Q
+## 2018-06-07
+* [#76](https://github.com/DataBiosphere/firecloud-app/issues/76): FireCloud has upgraded to Cromwell version 32. For more information on this upgrade, see the official FireCloud release notes for RC_Q at https://software.broadinstitute.org/firecloud/blog?id=12169, and the Cromwell release notes at https://github.com/broadinstitute/cromwell/releases.
+
 # RC_Obroshino
 ## 2018-05-31
 * [#20](https://github.com/DataBiosphere/firecloud-app/issues/20): Actual cloud costs, when available, are now displayed in the details page for individual workflows.
