@@ -1,5 +1,5 @@
 # RC_Synthetic
-## 2018-06-18
+## 2018-06-21
 * [#74](https://github.com/DataBiosphere/firecloud-app/issues/74): Updated the swagger-ui response models for the "Monitor submission status" and "Retrieve workflow cost" API endpoints at https://api.firecloud.org/#!/Submissions/monitorSubmission and https://api.firecloud.org/#!/Submissions/workflowCostInSubmission, respectively.
 * [#70](https://github.com/DataBiosphere/firecloud-app/issues/70): UX improvements related to call caching, submission and workflow monitoring:
     * Call caching status is now displayed at the submission level and has been removed from the workflow level.
