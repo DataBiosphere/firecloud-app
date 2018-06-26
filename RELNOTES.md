@@ -1,3 +1,7 @@
+# RC_Twente
+## 2018-06-26
+* [#80](https://github.com/DataBiosphere/firecloud-app/issues/80): User can now copy the "download metadata" link to increase speed of downloading via command line
+
 # RC_Synthetic
 ## 2018-06-21
 * [#74](https://github.com/DataBiosphere/firecloud-app/issues/74): Updated the swagger-ui response models for the "Monitor submission status" and "Retrieve workflow cost" API endpoints at https://api.firecloud.org/#!/Submissions/monitorSubmission and https://api.firecloud.org/#!/Submissions/workflowCostInSubmission, respectively.
