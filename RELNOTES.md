@@ -1,5 +1,7 @@
 # RC_Ural
-## 2018-07-03
+## 2018-07-10
+* [#91](https://github.com/DataBiosphere/firecloud-app/issues/91): Improved readability of the error message when adding a non-existent user to a group.
+* [#104](https://github.com/DataBiosphere/firecloud-app/issues/104): Fixed a bug that caused an individual workflow's details from displaying, in cases where the system encountered an unexpected error calculating that workflow's cost.
 
 # RC_Twente
 ## 2018-06-26
