@@ -1,5 +1,6 @@
 # RC_Vishtines
 ## 2018-07-17
+* [#97](https://github.com/DataBiosphere/firecloud-app/issues/97): Fixed an issue that caused timeouts and errors when attempting to view a workflow that contains many subworkflows.
 
 # RC_Ural
 ## 2018-07-10
