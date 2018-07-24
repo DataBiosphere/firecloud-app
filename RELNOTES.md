@@ -1,3 +1,9 @@
+# RC_West_of_England
+## 2018-07-24
+* [#33](https://github.com/DataBiosphere/firecloud-app/issues/33): FireCloud no longer requires the OAuth scope to "Manage your data and permissions in Google Cloud Storage" when logging in.
+* [#110](https://github.com/DataBiosphere/firecloud-app/issues/110): Selecting and copying gs:// and dos:// urls from within the FireCloud UI no longer copies extraneous unprintable/invisible characters.
+
+
 # RC_Vishtines
 ## 2018-07-17
 * [#97](https://github.com/DataBiosphere/firecloud-app/issues/97): Fixed an issue that caused timeouts and errors when attempting to view a workflow that contains many subworkflows.
