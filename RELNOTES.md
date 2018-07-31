@@ -1,3 +1,10 @@
+# RC_Xupu
+## 2018-07-31
+* [#61](https://github.com/DataBiosphere/firecloud-app/issues/61): FireCloud no longer tracks user behaviors in Google Analytics.
+* [#113](https://github.com/DataBiosphere/firecloud-app/issues/113): Upgraded to Cromwell 34 inside FireCloud. For more information on Cromwell 34, see the Cromwell release notes and official FireCloud release notes.
+* [#133](https://github.com/DataBiosphere/firecloud-app/issues/133): Minor performance improvement via reducing unnecessary ajax requests when switching tabs inside a workspace.
+* [#137](https://github.com/DataBiosphere/firecloud-app/issues/137): Performance improvement via caching of WDL validation. Users may notice improved performance when viewing a method configuration inside a workspace.
+
 # RC_West_of_England
 ## 2018-07-24
 * [#33](https://github.com/DataBiosphere/firecloud-app/issues/33): FireCloud no longer requires the OAuth scope to "Manage your data and permissions in Google Cloud Storage" when logging in.
