@@ -1,5 +1,7 @@
 # RC_Yong_Kang_Grey
-## 2018-08-07
+## 2018-08-08
+* [#34](https://github.com/DataBiosphere/firecloud-app/issues/34): FireCloud will now remember the list of email addresses with whom you share workspaces and offer those emails as autocomplete suggestions in the sharing dialog. This feature tracks your shares going forward, but cannot not reach backwards into history to suggest shares you've made in the past.
+* [#105](https://github.com/DataBiosphere/firecloud-app/issues/105): Tweaked the sort order when sorting submissions by the Status column. Similar statuses now sort next to each other; previously sorting was purely alphabetical.
 
 # RC_Xupu
 ## 2018-07-31
