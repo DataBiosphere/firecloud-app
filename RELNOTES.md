@@ -1,5 +1,8 @@
 # RC_Zatory
-## 2018-08-14
+## 2018-08-21
+* [#24](https://github.com/DataBiosphere/firecloud-app/issues/24): Improved performance and stability in uncommon cases when reading from the entity data model, if the data model has extremely wide or long attributes.
+* [#114](https://github.com/DataBiosphere/firecloud-app/issues/114): Improved the UX for the NPS survey for new users. Users who have already responded to the survey will not see the survey again.
+* [#157](https://github.com/DataBiosphere/firecloud-app/issues/157): Squashed a rarely-occurring bug that caused errors when viewing individual workflows, if those workflows had no immediate calls/tasks
 
 # RC_Yong_Kang_Grey
 ## 2018-08-09
