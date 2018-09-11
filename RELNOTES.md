@@ -1,3 +1,7 @@
+# RC_AmericanCreamDraft
+## 2018-09-16
+* [#156](https://github.com/DataBiosphere/firecloud-app/issues/156): Workspace readers no longer see the "Abort" button for running submissions. This button was previously visible to users with read-only workspace access, even though it did not allow those users to successfully abort a submission.
+
 # RC_Zatory
 ## 2018-08-21
 * [#24](https://github.com/DataBiosphere/firecloud-app/issues/24): Improved performance and stability in uncommon cases when reading from the entity data model, if the data model has extremely wide or long attributes.
