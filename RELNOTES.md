@@ -1,5 +1,10 @@
+# RC_BlackForestColdBlood
+## 2018-09-18
+* [#170](https://github.com/DataBiosphere/firecloud-app/issues/170): Upgraded IGV.js from v1.0.6 to v2.0.0-rc5 in the Analysis tab of a workspace. For more information on IGV.js and IGV in general, see https://github.com/igvteam/igv.js and https://software.broadinstitute.org/software/igv/.
+
+
 # RC_AmericanCreamDraft
-## 2018-09-16
+## 2018-09-12
 * [#156](https://github.com/DataBiosphere/firecloud-app/issues/156): Workspace readers no longer see the "Abort" button for running submissions. This button was previously visible to users with read-only workspace access, even though it did not allow those users to successfully abort a submission.
 
 # RC_Zatory
