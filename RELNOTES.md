@@ -1,3 +1,8 @@
+# RC_CarolinaMarshTacky
+## 2018-09-25
+* [#191](https://github.com/DataBiosphere/firecloud-app/issues/191): Removed an infinite spinner triggered by attempting to preview a DOS object, if that DOS object resolved to a text file or log file.
+* [#168](https://github.com/DataBiosphere/firecloud-app/issues/168): Fixed an error caused by attempting to populate a method configuration with a json file larger than 4kb.
+
 # RC_BlackForestColdBlood
 ## 2018-09-18
 * [#170](https://github.com/DataBiosphere/firecloud-app/issues/170): Upgraded IGV.js from v1.0.6 to v2.0.0-rc5 in the Analysis tab of a workspace. For more information on IGV.js and IGV in general, see https://github.com/igvteam/igv.js and https://software.broadinstitute.org/software/igv/.
