@@ -1,5 +1,8 @@
 # RC_DanubeDelta
 ## 2018-10-02
+* [#67](https://github.com/DataBiosphere/firecloud-app/issues/67): FireCloud now shows a more helpful error message if you manually load a nonexistent method in the Method Repository - for instance, if you had a browser bookmark that is no longer valid.
+* [#127](https://github.com/DataBiosphere/firecloud-app/issues/127): The help link in the "Import Metadata" modal of a workspace now links directly to the relevant page of the user guide, instead of linking to the user guide's homepage.
+* [#134](https://github.com/DataBiosphere/firecloud-app/issues/134): When viewing FireCloud in a small-width browser window, the secondary navigation tabs inside a workspace now wrap instead of extending off the screen.
 
 # RC_CarolinaMarshTacky
 ## 2018-09-25
