@@ -1,3 +1,7 @@
+# RC_EastFriesian
+## 2018-10-09
+_no changes in this release_
+
 # RC_DanubeDelta
 ## 2018-10-02
 * [#67](https://github.com/DataBiosphere/firecloud-app/issues/67): FireCloud now shows a more helpful error message if you manually load a nonexistent method in the Method Repository - for instance, if you had a browser bookmark that is no longer valid.
