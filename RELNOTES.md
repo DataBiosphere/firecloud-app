@@ -1,3 +1,7 @@
+# RC_Galiceno
+## 2018-10-23
+* [#122](https://github.com/DataBiosphere/firecloud-app/issues/122): The Data tab of workspaces is now resilient to unknown entity attribute names listed in a `workspace-column-defaults` workspace attribute.
+
 # RC_EastFriesian
 ## 2018-10-09
 _no changes in this release_
