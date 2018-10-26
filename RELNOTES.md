@@ -1,3 +1,7 @@
+# RC_Heck
+## 2018-10-30
+* [#208](https://github.com/DataBiosphere/firecloud-app/issues/208): The workflow timing diagram inside the Monitor tab of a workspace has been updated for stability. Additionally, where previously the diagram displayed "myworkflow.mycall" for each row, it now displays only "mycall" to save space.
+
 # RC_Galiceno
 ## 2018-10-23
 * [#122](https://github.com/DataBiosphere/firecloud-app/issues/122): The Data tab of workspaces is now resilient to unknown entity attribute names listed in a `workspace-column-defaults` workspace attribute.
