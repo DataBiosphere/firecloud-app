@@ -1,3 +1,8 @@
+# RC_Heck
+## 2018-10-30
+* [#42](https://github.com/DataBiosphere/firecloud-app/issues/42): To continue ensuring a secure platform, FireCloud now requires users to actively accept the FireCloud Terms of Service prior to using the platform. These Terms of Service will be displayed once a user logs-into FireCloud. A user will be unable to work in FireCloud until these Terms of Service are accepted.
+* [#208](https://github.com/DataBiosphere/firecloud-app/issues/208): The workflow timing diagram inside the Monitor tab of a workspace has been updated for stability. Additionally, where previously the diagram displayed "myworkflow.mycall" for each row, it now displays only "mycall" to save space.
+
 # RC_Galiceno
 ## 2018-10-23
 * [#122](https://github.com/DataBiosphere/firecloud-app/issues/122): The Data tab of workspaces is now resilient to unknown entity attribute names listed in a `workspace-column-defaults` workspace attribute.
