@@ -1,3 +1,12 @@
+# RC_IrishHunter
+## 2018-11-14
+* [#111](https://github.com/DataBiosphere/firecloud-app/issues/111) The FireCloud UI now has links in a few places for improved usability: 
+    * when viewing the list of method configurations in a workspace, the name of the referenced method is now a link.
+    * when viewing a single method configuration in a workspace, the snapshot id now links to the referenced method.
+    * when viewing a submission, the method configuration name is now a link.
+* [#212](https://github.com/DataBiosphere/firecloud-app/issues/212) The API to get call-level metadata for a workflow now supports query parameters to control which fields should be returned in the response. This is particularly useful for querying specific data about a workflow where the full response is otherwise very large. Cromwell has offered this functionality for multiple releases but it has not been exposed via the FireCloud API. See the Swagger documentation for specifics.
+* [#217](https://github.com/DataBiosphere/firecloud-app/issues/217) The login process now eliminates an unnecessary Ajax request for the Terms of Service content. Users may see a very slight incremental performance improvement during login.
+
 # RC_Heck
 ## 2018-10-30
 * [#42](https://github.com/DataBiosphere/firecloud-app/issues/42): To continue ensuring a secure platform, FireCloud now requires users to actively accept the FireCloud Terms of Service prior to using the platform. These Terms of Service will be displayed once a user logs-into FireCloud. A user will be unable to work in FireCloud until these Terms of Service are accepted.
