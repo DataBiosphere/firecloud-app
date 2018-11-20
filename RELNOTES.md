@@ -1,3 +1,11 @@
+# RC_JejuHorse
+## 2018-11-20
+* [#83](https://github.com/DataBiosphere/firecloud-app/issues/83) Improved an error message. Previously, users would see a message `sendReceive doesn't support chunked responses, try sendTo instead`, which was unhelpful and confusing. Now, this error better indicates what's really happening: `The response payload was over 20MB and cannot be processed.`
+* [#206](https://github.com/DataBiosphere/firecloud-app/issues/206) When viewing a single workflow's details, the FireCloud UI now defers its cost calculation until after it renders the workflow details. Since cost calculation can be slow, this allows the UI to serve the workflow details faster.
+* [#213](https://github.com/DataBiosphere/firecloud-app/issues/213) The FireCloud UI now requests a smaller, streamlined payload from the API when rendering workflow details. This allows the UI to serve the workflow details faster and eliminates some - but not all - errors caused when the workflow details API response is too large.
+* [#214](https://github.com/DataBiosphere/firecloud-app/issues/214) The FireCloud UI now only requests the data to populate a workflow's timing diagram on demand, once a user clicks to show the diagram. Previously the UI loaded this data when the page first rendered. This further allows the UI to serve the workflow details faster and eliminates some - but not all - errors caused when the workflow details API response is too large.
+* [#218](https://github.com/DataBiosphere/firecloud-app/issues/218) The FireCloud UI now shows an error message in certain situations on the workspace list and the submission list within a workspace. Previously, the error message was suppressed and, in the case of a backend error, the UI rendered an empty page.
+
 # RC_IrishHunter
 ## 2018-11-14
 * [#111](https://github.com/DataBiosphere/firecloud-app/issues/111) The FireCloud UI now has links in a few places for improved usability: 
