@@ -1,3 +1,11 @@
+# RC_Knabstrupper
+## 2018-12-19
+### Fixes
+* [#227](https://github.com/DataBiosphere/firecloud-app/issues/227) Fixed a bug that prevented the viewing of an individual workflow, if the current workspace had a space in its name. This bug was introduced in the November 14, 2018 release. Thanks to @mbookman for identifying this bug.
+### Infrastructure
+* [#223](https://github.com/DataBiosphere/firecloud-app/issues/223) To improve security, the FireCloud UI now incorporates protection from the [tCell](https://www.tcell.io/how-it-works/features-protections/browser-protection/) browser agent.
+
+
 # RC_JejuHorse
 ## 2018-11-29
 * [#83](https://github.com/DataBiosphere/firecloud-app/issues/83) Improved an error message. Previously, users would see a message `sendReceive doesn't support chunked responses, try sendTo instead`, which was unhelpful and confusing. Now, this error better indicates what's really happening: `The response payload was over 20MB and cannot be processed.`
