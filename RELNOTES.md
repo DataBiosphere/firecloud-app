@@ -2,6 +2,7 @@
 ## 2018-12-19
 ### Fixes
 * [#227](https://github.com/DataBiosphere/firecloud-app/issues/227) Fixed a bug that prevented the viewing of an individual workflow, if the current workspace had a space in its name. This bug was introduced in the November 14, 2018 release. Thanks to @mbookman for identifying this bug.
+* [#234](https://github.com/DataBiosphere/firecloud-app/issues/234) The workflow timing diagram now shows a tooltip of "Running" for properly-running tasks. Previously, it incorrectly showed "Still Running when workflow ended" even though the workflow had not ended. This bug was introduced in the November 1, 2018 release.
 ### Infrastructure
 * [#223](https://github.com/DataBiosphere/firecloud-app/issues/223) To improve security, the FireCloud UI now incorporates protection from the [tCell](https://www.tcell.io/how-it-works/features-protections/browser-protection/) browser agent.
 
