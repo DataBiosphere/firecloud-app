@@ -1,0 +1,1 @@
+Please read [CONTRIBUTING.md] before submitting an issue. Thanks!
