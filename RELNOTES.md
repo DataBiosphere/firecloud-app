@@ -1,3 +1,8 @@
+# RC_Knabstrupper_hotfix
+## 2019-01-07
+### Improvements
+* [#215](https://github.com/DataBiosphere/firecloud-app/issues/215) When viewing the details of an individual workflow through the UI, the input and output values are now loaded on demand instead of preloaded. This improves performance of the initial page view and reduces errors on the initial page view where previously the payload was too large to handle.
+
 # RC_Knabstrupper
 ## 2019-01-03
 ### Fixes
