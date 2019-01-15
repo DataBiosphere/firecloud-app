@@ -1,3 +1,7 @@
+# RC_Mountain-Pleasure-Horse
+## 2019-01-15
+* [#239](https://github.com/DataBiosphere/firecloud-app/issues/239) Re-launched a user satisfaction (Net Promoter Score, or NPS) survey within the FireCloud UI.
+
 # RC_Knabstrupper_hotfix
 ## 2019-01-07
 ### Improvements
