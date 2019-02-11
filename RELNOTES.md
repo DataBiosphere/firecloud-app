@@ -1,3 +1,7 @@
+# RC_SovietHeavyDraft
+## 2019-02-12
+* [#267](https://github.com/DataBiosphere/firecloud-app/issues/267) When viewing a method configuration inside a workspace, the FireCloud UI now renders that configuration's Documentation field as markdown. The Documentation field can be collapsed to save space on the page.
+
 # RC_Rottaler
 ## 2019-02-05
 * [#244](https://github.com/DataBiosphere/firecloud-app/issues/244) The "Launch with FireCloud" feature in [Dockstore](https://dockstore.org/) now works again.
