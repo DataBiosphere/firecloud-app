@@ -1,3 +1,7 @@
+# RC_Sardinian-Anglo-Arab
+## 2019-02-26
+* [#280](https://github.com/DataBiosphere/firecloud-app/issues/280) The Terms of Service API has updated its library dependencies, to proactively address security vulnerability warnings.
+
 # RC_SovietHeavyDraft
 ## 2019-02-12
 * [#267](https://github.com/DataBiosphere/firecloud-app/issues/267) When viewing a method configuration inside a workspace, the FireCloud UI now renders that configuration's Documentation field as markdown. The Documentation field can be collapsed to save space on the page.
